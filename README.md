@@ -10,7 +10,7 @@
 
 ## Технологии 
 1. HTML
-2. SASS
+2. SСSS
 3. React
 4. Zustand
 5. TypeScript
