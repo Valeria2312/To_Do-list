@@ -12,7 +12,7 @@
 1. HTML
 2. SASS
 3. React
-4. vite
+4. Zustand
 5. TypeScript
 
 ## Доступные сценарии
